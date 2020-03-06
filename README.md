@@ -1,1 +1,1 @@
-# redesigned-pokedex
+# webpack setup template

@@ -7,7 +7,7 @@ module.exports = {
   plugins: [
      new CleanWebpackPlugin(),
      new HtmlWebpackPlugin({
-       title: 'Redesigned Pokédex',
+       title: 'Webpack setup template',
      }),
    ],
   output: {
